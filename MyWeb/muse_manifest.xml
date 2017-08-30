@@ -1,0 +1,45 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="caoyijie.com" resolutions="1x" timestamp="1474979837047">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="_____.css" crc="4284450104" ref="发展在成都"/>
+    <file name="index.css" crc="112180619" ref="index"/>
+    <file name="___.css" crc="379118448" ref="泸沽湖"/>
+    <file name="___2.css" crc="402468793" ref="贡嘎山"/>
+    <file name="___1.css" crc="91247367" ref="都江堰"/>
+    <file name="_____1.css" crc="514786836" ref="时尚在成都"/>
+    <file name="_____2.css" crc="39537958" ref="娱乐在成都"/>
+  </folder>
+  <folder name="assets">
+    <file name="index.html" crc="4162940803" seo="true" mt="1474978798000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山:index"/>
+    <file name="museutils.js" crc="183364071" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山:index"/>
+    <file name="pie.js" crc="3827607177" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山"/>
+    <file name="jquery.watch.js" crc="71412426" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山:index"/>
+  </folder>
+  <folder name="images">
+    <file name="20120803-dsc01999.jpg" crc="3820459465" seo="true" ref="泸沽湖"/>
+    <file name="lugu.png" crc="4234978155" seo="true" ref="泸沽湖"/>
+    <file name="20160807-_mg_3430.jpg" crc="4237133440" seo="true" ref="发展在成都"/>
+    <file name="renminlanlu.png" crc="258637321" seo="true" ref="发展在成都"/>
+    <file name="20160715-_mg_3256.jpg" crc="336950859" seo="true" ref="时尚在成都"/>
+    <file name="taiguli.png" crc="430908261" seo="true" ref="时尚在成都"/>
+    <file name="20160806-_mg_3394.jpg" crc="3854127426" seo="true" ref="娱乐在成都"/>
+    <file name="xiaojiuguan.png" crc="296580120" seo="true" ref="娱乐在成都"/>
+    <file name="20160209-_mg_1598.jpg" crc="201185409" seo="true" ref="都江堰"/>
+    <file name="dujiangyan.png" crc="456230673" seo="true" ref="都江堰"/>
+    <file name="20160813-ultimate-_mg_3609.jpg" crc="377977734" seo="true" ref="贡嘎山"/>
+    <file name="gongga.png" crc="3771834458" seo="true" ref="贡嘎山"/>
+    <file name="by-nc-nd.png" crc="124388935" seo="true" ref="泸沽湖:发展在成都:时尚在成都:娱乐在成都:都江堰:贡嘎山"/>
+  </folder>
+  <file name="泸沽湖.html" crc="4177533104" seo="true" mt="1474979543554" redirect="true"/>
+  <file name="发展在成都.html" crc="108584655" seo="true" mt="1474979503850" redirect="true"/>
+  <file name="时尚在成都.html" crc="287605498" seo="true" mt="1474979793363" redirect="true"/>
+  <file name="娱乐在成都.html" crc="112476876" seo="true" mt="1474979762811" redirect="true"/>
+  <file name="都江堰.html" crc="4029962197" seo="true" mt="1474979663586" redirect="true"/>
+  <file name="贡嘎山.html" crc="97637439" seo="true" mt="1474979616950" redirect="true"/>
+  <file name="index.html" crc="3828978201" seo="true" mt="1474969898247" redirect="false"/>
+</manifest>
